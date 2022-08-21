@@ -161,12 +161,6 @@ function getPageLogoFileName(subPageName){
     case "current-page":
       return "thermometer.svg";
 
-    case "radar-page":
-      return "radar1.svg";
-
-    case "zoomed-radar-page":
-      return "radar2.svg";
-
     case "today-page":
       return "calendar.svg";
 
